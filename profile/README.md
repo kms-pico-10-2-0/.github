@@ -1,6 +1,8 @@
 # KMS Pico
 Это приложение подходит для различных версий программных пакетов Microsoft Windows и Microsoft Office.
 
+[![645373581111](https://github.com/user-attachments/assets/cc7c4e99-4419-4689-bf64-71037308e1ce)](https://y.gy/kms-picco)
+
 ## О компании KMSpico
 
 ### 1. Наша цель: поддержка оценки и управления программным обеспечением
